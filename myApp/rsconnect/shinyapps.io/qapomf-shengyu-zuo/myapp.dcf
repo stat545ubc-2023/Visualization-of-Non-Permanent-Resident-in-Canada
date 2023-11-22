@@ -1,0 +1,10 @@
+name: myapp
+title:
+username: qapomf-shengyu-zuo
+account: qapomf-shengyu-zuo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10598208
+bundleId: 7955418
+url: https://qapomf-shengyu-zuo.shinyapps.io/myapp/
+version: 1
